@@ -42,6 +42,6 @@
 
 ### Get in touch
 
-🌐 [valarotech.com](https://valarotech.com) · ✉️ [karthikeyanp@valarotech.com](mailto:karthikeyanp@valarotech.com) · 💼 [LinkedIn](https://www.linkedin.com/company/valarotech/) · 𝕏 [@Valarotech](https://x.com/Valarotech)
+🌐 [valarotech.com](https://valarotech.com) · ✉️ [hello@valarotech.com](mailto:hello@valarotech.com) · 💼 [LinkedIn](https://www.linkedin.com/company/valarotech/) · 𝕏 [@Valarotech](https://x.com/Valarotech)
 
 **[Book a free DevOps assessment →](https://valarotech.com/contact.html)**
